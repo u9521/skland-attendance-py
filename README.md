@@ -64,3 +64,7 @@ uv run python -m skland_attendance --tokens "your-token"
 ## 致谢
 
 感谢上游项目 [AEtherside/skland-daily-attendance](https://github.com/AEtherside/skland-daily-attendance)。本项目的签到流程和 CI 方案参考了该项目，并在 Python 版本中移除了持久化存储、Docker 和消息通知功能。
+
+## 许可证
+
+本项目使用 MIT License。详见 [LICENSE](LICENSE)。
