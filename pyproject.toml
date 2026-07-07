@@ -3,10 +3,14 @@ name = "skland-attendance-py"
 version = "0.0.1"
 description = "Skland auto attendance implemented in Python"
 readme = "README.md"
-license = "MIT"
 requires-python = ">=3.14"
+license-files = ["LICENSE"]
+authors = [{ name = "u9521" }]
+classifiers = [
+  "License :: OSI Approved :: MIT License",
+]
 dependencies = [
-    "requests>=2.32.0",
+  "requests>=2.32.0",
 ]
 
 [project.scripts]
