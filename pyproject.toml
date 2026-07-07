@@ -6,9 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 license-files = ["LICENSE"]
 authors = [{ name = "u9521" }]
-classifiers = [
-  "License :: OSI Approved :: MIT License",
-]
 dependencies = [
   "requests>=2.32.0",
 ]
