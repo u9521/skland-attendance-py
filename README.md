@@ -42,7 +42,7 @@ uv run python -m skland_attendance --tokens "your-token"
 
 ## GitHub Actions
 
-项目内置 `.github/workflows/attendance.yml`，默认每天 UTC 15:00 运行，也支持手动触发。
+项目内置 `.github/workflows/attendance.yml`，默认每天 UTC 23:00 运行，也支持手动触发。
 
 需要在仓库中配置：
 
